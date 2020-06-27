@@ -16,7 +16,7 @@
 title: Sustainable open science
 email: yochannah.yehudi@postgrad.manchester.ac.uk
 description: >- # this means to ignore newlines until "baseurl:"
-  Recruitment site for a study run by Yo Yehudi, EngD student at the Eniversity of Manchester.
+  Recruitment site for a study run by Yo Yehudi, EngD student at the University of Manchester.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: yoyehudi
