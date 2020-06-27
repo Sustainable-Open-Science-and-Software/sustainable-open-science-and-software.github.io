@@ -1,10 +1,9 @@
 ---
-layout: page
+layout: home
 title: Study - Sustainability in Open Source Projects
 date: 2020-06-27 15:52
 tags: software-sustainability
 ---
-# Study - Sustainability in Open Source Projects
 
 Research software is often abandoned or shut down, for one reason or another. While some reasons may be straightforward, e.g. a sole maintainer has moved on, or grant funding has ceased - some projects are able to withstand these barriers and may remain active and maintained despite adversity.
 
