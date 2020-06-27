@@ -1,14 +1,16 @@
 /**
  * Site header
  */
-.site-header {
-    border-top: 5px solid $grey-color-dark;
-    border-bottom: 1px solid $grey-color-light;
-    min-height: 56px;
-
-    // Positioning context for the mobile navigation icon
-    position: relative;
-}
+ .site-header {
+     background: linear-gradient(to right, #e91e63 0%,#e91e63 7%,#673ab7 8%,#673ab7 17%,#2196f3 18%,#2196f3 29%,#00bcd4 30%,#00bcd4 39%,#00bcd4 39%,#4caf50 40%,#4caf50 40%,#4caf50 47%,#4caf50 47%,#8bc34a 48%,#8bc34a 56%,#8bc34a 56%,#cddc39 57%,#cddc39 66%,#ffeb3b 67%,#ffeb3b 75%,#ffc107 79%,#ffc107 85%,#ff5722 86%,#ff5722 93%,#f44336 94%,#f44336 94%,#f44336 100%);
+     background-size: 100% 5px;
+     background-repeat: no-repeat;
+     background-position: 0 100%;
+     border-bottom: 1px solid $grey-color-light;
+     min-height: $spacing-unit * 1.865;
+     // Positioning context for the mobile navigation icon
+     position: relative;
+ }
 
 .site-title {
     font-size: 26px;
