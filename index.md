@@ -11,7 +11,7 @@ I'm running a study where I plan to monitor open source projects over the period
 
 During this period, I'll be doing the following:
 
-1. Running an initial survey, where I gather info about the project age, leadership, and GitHub URLs.
+1. Running an initial survey, where I gather info about the project age, leadership, and GitHub URLs. Participants will be asked to add [a short notice to their readme](readme_notice).
 2. After the initial survey, I'll also gather information about the GitHub projects - this is info such as number of contributors, number of PRs, time taken to close/merge these PRs, and issues closed. Some of this info will be gathered using scripts, such as tools from [GrimoireLab](https://chaoss.github.io/grimoirelab/) and other parts will be gathered manually. An example of this is the Code of Conduct - while I can programmatically check for the _existence_ of CodeOfConduct.md, I can't easily check for enforcement contacts without manual checks.
 3. 6 and 12 months after the initial survey, I'll send out a follow-up survey and run follow up GitHub checks, to see changes in projects over time.
 
