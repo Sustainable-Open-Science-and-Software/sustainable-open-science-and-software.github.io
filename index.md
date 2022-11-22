@@ -5,9 +5,25 @@ date: 2020-06-27 15:52
 tags: software-sustainability
 ---
 
-## Update JUNE 2022: Final surveys have been sent out to participants (40 in total), and write-up/data analysis is in progress.
+## Update Nov 2022 
 
-## Update NOV 2021: THIS SURVEY IS NOW CLOSED** Interested in participating? Please visit [this survey](https://www.qualtrics.manchester.ac.uk/jfe/form/SV_3xuFqrkbUcvQ9vg) for more info and to get started. It takes around 15 minutes to complete. Alternatively, you can download a PDF copy of the [participant information sheet](assets/PIS_sustainable_software.pdf) (the sheet is also shown in the survey if you are an eligible participant).
+Data analysis in progress, survey dataset is pseudonymised and deposited on Zenodo. 
+
+Still todo: 
+
+- [ ] Finalise Analyses
+- [ ] Pseudonymise GitHub metrics
+- [ ] Write up
+- [ ] Deposit preprint
+- [ ] Send to publisher (who?!)
+
+## Update JUNE 2022: 
+
+Final surveys have been sent out to participants (40 in total), and write-up/data analysis is in progress.
+
+## Update NOV 2021: 
+
+THIS SURVEY IS NOW CLOSED** Interested in participating? Please visit [this survey](https://www.qualtrics.manchester.ac.uk/jfe/form/SV_3xuFqrkbUcvQ9vg) for more info and to get started. It takes around 15 minutes to complete. Alternatively, you can download a PDF copy of the [participant information sheet](assets/PIS_sustainable_software.pdf) (the sheet is also shown in the survey if you are an eligible participant).
 
 ## About the study
 
