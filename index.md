@@ -5,9 +5,13 @@ date: 2020-06-27 15:52
 tags: software-sustainability
 ---
 
+## Update May 2023
+
+Thesis due in one month. All hands on decks! 
+
 ## Update Nov 2022 
 
-Data analysis in progress, survey dataset is pseudonymised and deposited on Zenodo. 
+Data analysis in progress, survey dataset is pseudonymised and [deposited on Zenodo](https://doi.org/10.5281/zenodo.7347763). 
 
 Still todo: 
 
