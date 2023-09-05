@@ -9,6 +9,8 @@ tags: software-sustainability
 
 To view the (entirely anonymous) aggregated stats/datavis/data exploration for the study, visit: [https://yochannah.github.io/sustainable-communities-tracker/](https://yochannah.github.io/sustainable-communities-tracker/)
 
+The source code for the above analyses is here: [https://github.com/yochannah/sustainable-communities-tracker](https://github.com/yochannah/sustainable-communities-tracker)
+
 Note that some of the pages have had to be removed as they would too easily reveal which github repos were participants. 
 
 # History 
