@@ -5,6 +5,16 @@ date: 2020-06-27 15:52
 tags: software-sustainability
 ---
 
+# Current status
+
+To view the (entirely anonymous) aggregated stats/datavis/data exploration for the study, visit: [https://yochannah.github.io/sustainable-communities-tracker/](https://yochannah.github.io/sustainable-communities-tracker/)
+
+Note that some of the pages have had to be removed as they would too easily reveal which github repos were participants. 
+
+# History 
+
+The thesis is in; preprint & publication will be forthcoming. The TL;DR of this study is: don't use GitHub metrics without context, as similar looking projects may have vastly different reasons for the same github metrics. 
+
 ## Update May 2023
 
 Thesis due in one month. All hands on decks! 
@@ -15,9 +25,9 @@ Data analysis in progress, survey dataset is pseudonymised and [deposited on Zen
 
 Still todo: 
 
-- [ ] Finalise Analyses
+- [x] Finalise Analyses
 - [ ] Pseudonymise GitHub metrics
-- [ ] Write up
+- [x] Write up (as a thesis chapter...)
 - [ ] Deposit preprint
 - [ ] Send to publisher (who?!)
 
